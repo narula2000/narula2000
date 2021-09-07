@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I am a free diver and a golfer(25 handicap)
 
 
-## Languages and Tools:
+### Languages and Tools:
 
 <p align="center">
   <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -27,7 +27,7 @@
   <img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 
-## Connect with me:
+### Connect with me:
 
 <p align="center">
   <a href="https://twitter.com/vikrom">
@@ -44,4 +44,8 @@
 
 <br />
 
-<img align="center" alt="narula2000's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=narula2000&show_icons=true&hide_border=true&theme=tokyonight" />
+<p align="center">
+  <a href="https://github.com/narula2000">
+    <img align="center" alt="narula2000's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=narula2000&show_icons=true&hide_border=true&theme=tokyonight" />
+  </a>
+</p>
