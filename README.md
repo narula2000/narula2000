@@ -1,5 +1,5 @@
 ### Hello there, I'm Vikrom 👋
-## I'm a Student, Brother, Developer, and Leaner!!
+## I'm a Student, Brother, Developer, and Learner!!
 
 - 🔭 I just started my 4th year at [MUIC](https://muic.mahidol.ac.th/eng/)
 - 🌱 I’m currently learning distributed system i.e. Kubernetes ☸️
