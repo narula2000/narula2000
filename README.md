@@ -1,10 +1,10 @@
 ### Hello there, I'm Vikrom 👋
 ## I'm a Student, Brother, Developer, and Learner!!
 
-- 🔭 I just started my 4th year at [MUIC](https://muic.mahidol.ac.th/eng/)
-- 🌱 I’m currently learning distributed system i.e. Kubernetes ☸️
+- 🔭 I am finishing my 4th year at [MUIC](https://muic.mahidol.ac.th/eng/)
+- 🌱 I’m currently learning Next.js and T3 stack ☸️
 - 👯 I’m looking to collaborate
-- 🥅 2021 Goals: Build more projects
+- 🥅 2022 Goals: Build more projects, and build for full stacks apps
 - ⚡ Fun fact: I am a free diver and a golfer(25 handicap)
 
 
