@@ -1,7 +1,7 @@
 ### Hello there, I'm Vikrom 👋
 ## I'm a Deverloper, Brother, Developer, and Learner!!
 
-- 🔭 I graduated from [MUIC](https://muic.mahidol.ac.th/eng/) in bachelor degree of Computer Science.
+- 🔭 I graduated from [MUIC](https://muic.mahidol.ac.th/eng/) in bachelor degree of Computer Science
 - 🌱 I’m currently learning Next.js and T3 stack ☸️
 - 👯 I’m looking to collaborate
 - 🥅 2022 Goals: Build more projects, and build more full stacks apps
@@ -23,7 +23,6 @@
   <img align="center" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
   <img align="center" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
   <img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
 
