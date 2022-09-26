@@ -28,5 +28,5 @@ jobs:
           git config --global user.email "vikrom.nar@gmail.com"
           git config --global user.name "Vikrom Narula"
           git add .
-          git commit -m "Update the snake"
+          git commit --allow-empty -m "Update the snake"
           git push --force
