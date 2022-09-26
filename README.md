@@ -45,3 +45,7 @@
     <img align="center" alt="narula2000's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=narula2000&show_icons=true&hide_border=true&theme=tokyonight" />
   </a>
 </p>
+
+<p align="center">
+  <img src="/assets/github-contribution-grid-snake.svg" title="@narula2000-github-snake" alt="@narula2000-github-snake"">
+</p>
