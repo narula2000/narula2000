@@ -4,7 +4,7 @@
 - 🔭 I graduated from [MUIC](https://muic.mahidol.ac.th/eng/) in bachelor degree of Computer Science
 - 🌱 I’m currently learning Next.js and T3 stack ☸️
 - 👯 I’m looking to collaborate
-- 🥅 2022 Goals: Build more projects, and build more full stacks apps
+- 🥅 2023 Goals: Build more projects, and grind on [Leetcode](https://leetcode.com/narula2000/)
 - ⚡ Fun fact: I am a free diver and a golfer with 25 handicap
 
 
