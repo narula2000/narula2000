@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate
 - 🥅 2023 Goals: Build more projects, and grind on [Leetcode](https://leetcode.com/narula2000/)
 - ⚡ Fun fact: I am a free diver and a golfer with 25 handicap
+- 📝 [Resume](https://raw.githubusercontent.com/narula2000/resume/main/resume.pdf): If you are interested in my history
 
 ### Connect with me:
 
